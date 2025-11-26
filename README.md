@@ -23,14 +23,14 @@
 </p>
 
 
-<!-- Boss-level Pixel Glitch Style -->
+<!-- GLITCH PIXEL TEXT: "Code. Create. Conquer." (slow dramatic glitch) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=6000&pause=999999&color=FFD700&center=true&vCenter=true&width=900&lines=⚡+PROMPT+·+PIXEL+·+FLOW+⚡&repeat=false" alt="PROMPT · PIXEL · FLOW" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE.+CREATE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+☣+CODE+CREATE+CONQUER+☣+✦;✦+CODE.+CREATE.+CONQUER.+✦"
+    alt="Code Create Conquer Glitch"
+  />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=6000&pause=999999&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE+·+CREATE+·+CONQUER+✦&repeat=false" alt="Code Create Conquer" />
-</p>
 
 
 
