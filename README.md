@@ -17,7 +17,7 @@
 <!-- HARD GLITCH PIXEL TEXT: "An AI Full-Stack developer" -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=150&pause=600&color=FF005C&center=true&vCenter=true&width=950&lines=An+AI+Full-Stack+developer;An+ΛI+Full-StΔck+deve1oper;▲n+AI+Fu11-Stack+deveIoper;An+AI+Full-Stack+developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=150&pause=400&color=FF005C&center=true&vCenter=true&width=950&lines=An+AI+Full-Stack+developer;An+ΛI+Full-StΔck+deve1oper;▲n+AI+Fu11-Stack+deveIoper;An+AI+Full-Stack+developer"
     alt="An AI Full-Stack developer (glitch)"
   />
 </p>
