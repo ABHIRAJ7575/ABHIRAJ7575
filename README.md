@@ -21,13 +21,16 @@
   />
 </p>
 
-<!-- Boss-level static pixel lines (no animation) -->
+<!-- Boss-level Pixel Glitch Style -->
 <p align="center">
-  <samp>⚡ PROMPT · PIXEL · FLOW ⚡</samp>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=6000&pause=999999&color=FFD700&center=true&vCenter=true&width=900&lines=⚡+PROMPT+·+PIXEL+·+FLOW+⚡&repeat=false" alt="PROMPT · PIXEL · FLOW" />
 </p>
 
 <p align="center">
-  <samp>✦ CODE · CREATE · CONQUER ✦</samp>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=6000&pause=999999&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE+·+CREATE+·+CONQUER+✦&repeat=false" alt="Code Create Conquer" />
+</p>
+<p align="center">
+  <samp>INSERT COIN TO COLLAB 💾</samp>
 </p>
 
 
