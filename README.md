@@ -14,7 +14,13 @@
   />
 </p>
 
-<h3 align="center"><i><span style="font-family:'Trebuchet MS', sans-serif;">An AI Full-Stack developer</span></i></h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=9000&pause=3000&color=C0C0C0&center=true&vCenter=true&width=900&lines=An+AI+Full-Stack+developer"
+    alt="An AI Full-Stack developer"
+  />
+</p>
+
 
 <!-- ORIGINAL CODING GIF ON THE RIGHT (KEPT) -->
 <img align="right"  alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
