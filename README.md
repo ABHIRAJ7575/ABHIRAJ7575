@@ -26,7 +26,7 @@
 <!-- GLITCH PIXEL TEXT: "Code. Create. Conquer." (slow dramatic glitch) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE.+CREATE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+☣+CODE+CREATE+CONQUER+☣+✦;✦+CODE.+CREATE.+CONQUER.+✦"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=100&pause=900&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE.+CREATE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+☣+CODE+CREATE+CONQUER+☣+✦;✦+CODE.+CREATE.+CONQUER.+✦"
     alt="Code Create Conquer Glitch"
   />
 </p>
