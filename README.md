@@ -20,6 +20,21 @@
     alt="An AI Full-Stack developer"
   />
 </p>
+<!-- Unique vibe coding line (pixel font) -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=8500&pause=3000&color=FFD700&center=true&vCenter=true&width=900&lines=AI+%26+Vibe+Coding+🚀"
+    alt="AI & Vibe Coding"
+  />
+</p>
+
+<!-- Glowing neon-style pixel line -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=8000&pause=3000&color=00F9FF&center=true&vCenter=true&width=900&lines=Code.+Create.+Conquer."
+    alt="Code. Create. Conquer."
+  />
+</p>
 
 
 <!-- ORIGINAL CODING GIF ON THE RIGHT (KEPT) -->
