@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=9000&pause=3000&color=C0C0C0&center=true&vCenter=true&width=900&lines=An+AI+Full-Stack+developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=9000&pause=3000&color=C0C0C0&center=true&vCenter=true&width=900&lines=An+AI+Full-Stack+Developer"
     alt="An AI Full-Stack developer"
   />
 </p>
