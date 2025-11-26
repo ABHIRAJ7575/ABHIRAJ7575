@@ -17,7 +17,7 @@
 <!-- HARD GLITCH PIXEL TEXT: "An AI Full-Stack developer" -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=100&pause=900&color=FF005C&center=true&vCenter=true&width=950&lines=An+AI+Full-St@ck+deve!oper;An+ΛI+Full-StΔck+Devel()per;▲n+AI+Fu11-St@ck+deveIoper;An+AI+Full-Stack+Dev^lope*"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=100&pause=900&color=FF005C&center=true&vCenter=true&width=950&lines=n+▲I+Full-St@ck+deve!oper;An+ΔI+{ull-StΔck+Devel()per;▲n+AI+Fu11-St@ck+deveI✦pe®;An+▲I+Full-StΔck+Dev^lope✦"
     alt="An AI Full-Stack Developer (glitch)"
   />
 </p>
@@ -26,7 +26,7 @@
 <!-- GLITCH PIXEL TEXT: "Code. Create. Conquer." (slow dramatic glitch) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=100&pause=900&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE.+CREATE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+☣+CODE+CREATE+CONQUER+☣+✦;✦+CODE.+CREATE.+CONQUER.+✦"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=100&pause=900&color=00F9FF&center=true&vCenter=true&width=900&lines=✦+CODE.+CREΔTE.+CONQUER.+✦;✧+C0DE+·+CR3AT€+·+C0NQUER+✧;✦+☣+CODE+CREΔTE+CONQUER+☣+✦;✦+CODE.+CRE▲TE.+C()NQU£R.+✦"
     alt="Code Create Conquer Glitch"
   />
 </p>
