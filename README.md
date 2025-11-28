@@ -36,7 +36,7 @@
 
 
 <!-- ORIGINAL CODING GIF ON THE RIGHT (KEPT) -->
-<img align="right"  alt="coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
+<img align="right"  alt="coding" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
 
 - 🔭 I’m currently working on **Prompt Engineering & Automation Pipelines**
 
