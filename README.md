@@ -10,7 +10,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1000&pause=9000&color=FF61E8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abhiraj+Dixit"
-    alt="Hi I'm Abhiraj Dixit"
+    alt="Hi I'm ABHIRAJ DIXIT"
   />
 </p>
 
@@ -159,7 +159,7 @@
 ###  AI Tools & Workflow
 
 <p align="center">
-  <sub>⚡ Building with AI-first tools – coding by vibes, shipping by agents.</sub>
+  <sub> Building with AI-first tools – coding by vibes, shipping by agents.</sub>
 </p>
 
 <p align="center">
