@@ -156,7 +156,7 @@
   </a>
 </p>
 
-### 🚀 AI Tools & Workflow
+###  AI Tools & Workflow
 
 <p align="center">
   <sub>⚡ Building with AI-first tools – coding by vibes, shipping by agents.</sub>
@@ -186,7 +186,7 @@
 
 <p align="center">
   <sub>
-    🧠 <b>Workflow:</b> design in mind → prompt in tools → ship fast · automate repetitive dev · keep focus on logic & creativity.
+     <b>Workflow:</b> design in mind → prompt in tools → ship fast · automate repetitive dev · keep focus on logic & creativity.
   </sub>
 </p>
 
