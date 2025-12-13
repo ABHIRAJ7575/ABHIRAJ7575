@@ -1,11 +1,6 @@
 <!-- TOP MAIN HEADER GIF -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<!-- PIXEL BOY CODING HEADER (UNCHANGED) -->
-<p align="center">
-  <img src="/mnt/data/ChatGPT Image Nov 25, 2025, 10_27_25 PM.png" width="100%" />
-</p>
-
 <!-- HI TEXT (PIXEL, SAME POSITION) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1&pause=99999&color=7CF9FF&center=true&vCenter=true&width=900&lines=HI" />
