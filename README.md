@@ -6,39 +6,45 @@
   <img src="/mnt/data/ChatGPT Image Nov 25, 2025, 10_27_25 PM.png" width="100%" />
 </p>
 
-<!-- ===================== MAIN INTRO ===================== -->
+<!-- ===================== HERO INTRO ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1200&pause=8000&color=7CF9FF&center=true&vCenter=true&width=1000&lines=HI+👋+I'M+ABHIRAJ+DIXIT" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1200&pause=8000&color=7CF9FF&center=true&vCenter=true&width=1200&lines=HI+👋+I'M+ABHIRAJ+DIXIT" />
 </p>
 
-<!-- ===================== ROLE : HARD GLITCH ===================== -->
+<!-- ===================== ROLE (GLITCH) ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=140&pause=1200&color=FF4D8D&center=true&vCenter=true&width=1000&lines=AN+AI+FULL-STACK+DEVELOPER;AN+ΔI+FULL-STΔCK+DEV3LOP3R;▲N+AI+FU11-ST@CK+DEVEL0PER;AN+AI+FULL-STACK+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=140&pause=1200&color=FF4D8D&center=true&vCenter=true&width=1200&lines=AN+AI+FULL-STACK+DEVELOPER;AN+ΔI+FULL-STΔCK+DEV3LOP3R;▲N+AI+FU11-ST@CK+DEVEL0PER;AN+AI+FULL-STACK+DEVELOPER" />
 </p>
 
-<!-- ===================== TAGLINE : GLITCH SLOW ===================== -->
+<!-- ===================== TAGLINE ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1800&pause=2500&color=00FFD1&center=true&vCenter=true&width=1000&lines=✦+CODE.+CREΔTE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+CODE.+CREATE.+CONQUER.+✦" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1800&pause=2500&color=00FFD1&center=true&vCenter=true&width=1200&lines=✦+CODE.+CREATE.+CONQUER.+✦;✧+C0DE+·+CR3ATE+·+C0NQUER+✧;✦+CODE.+CREATE.+CONQUER.+✦" />
 </p>
 
 <!-- ===================== CODING GIF ===================== -->
-<img align="right" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-<!-- ===================== INFO (PIXEL TEXT) ===================== -->
+<!-- ===================== INFO (SPLIT LINES – NO CUTTING) ===================== -->
 <p>
-🟣 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFD36A&lines=WORKING+ON+PROMPT+ENGINEERING+%26+AUTOMATION+PIPELINES" />
+🟣 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFD36A&width=1200&lines=WORKING+ON+PROMPT+ENGINEERING" />
+</p>
+<p>
+🟣 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFD36A&width=1200&lines=%26+AUTOMATION+PIPELINES" />
 </p>
 
 <p>
-🟢 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=8AFF8A&lines=LEARNING+ADVANCED+AI+DEVELOPMENT+TOOLS" />
+🟢 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=8AFF8A&width=1200&lines=LEARNING+ADVANCED+AI+DEVELOPMENT+TOOLS" />
 </p>
 
 <p>
-🔵 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=7CAEFF&lines=REACH+ME+AT+ABHIRAJDIXIT25@GMAIL.COM" />
+🔵 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=7CAEFF&width=1200&lines=REACH+ME+AT+ABHIRAJDIXIT25%40GMAIL.COM" />
 </p>
 
 <p>
-🟡 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFEA70&lines=I+LEARN+MORE+FROM+PROJECTS+THAN+TUTORIALS" />
+🟡 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFEA70&width=1200&lines=I+LEARN+MORE+FROM+PROJECTS" />
+</p>
+<p>
+🟡 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=FFEA70&width=1200&lines=THAN+TUTORIALS" />
 </p>
 
 ---
@@ -49,8 +55,8 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhiraj-dixit-6aa386313/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abhiraj-dixit-6aa386313/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
 </p>
 
@@ -61,10 +67,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=1&pause=99999&color=00F9FF&lines=LANGUAGES+%26+TOOLS" />
 </p>
 
-<p align="left">
-  <!-- icons unchanged -->
-  <!-- (your full icons block exactly as provided) -->
-</p>
+<!-- (your existing icons block stays EXACTLY the same here) -->
 
 ---
 
@@ -74,22 +77,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=9AE6FF&lines=AI-FIRST+WORKFLOW+·+PROMPT+SMART+·+SHIP+FAST" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1&pause=99999&color=9AE6FF&lines=AI-FIRST+WORKFLOW+·+PROMPT+SMART" />
 </p>
 
 <p align="center">
-  <a href="https://www.cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  </a>
-  <a href="https://ai.google.dev/gemini-cli" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://kiro.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Kiro_AI-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  <a href="https://platform.openai.com/docs/quickstart/cli" target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT_Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
+  <a href="https://www.cursor.sh"><img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/></a>
+  <a href="https://ai.google.dev/gemini-cli"><img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge"/></a>
+  <a href="https://kiro.ai"><img src="https://img.shields.io/badge/Kiro_AI-8A2BE2?style=for-the-badge"/></a>
+  <a href="https://platform.openai.com/docs/quickstart/cli"><img src="https://img.shields.io/badge/ChatGPT_Codex_CLI-00A67E?style=for-the-badge"/></a>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
