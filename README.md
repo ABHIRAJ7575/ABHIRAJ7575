@@ -170,36 +170,36 @@
 </p>
 
 <p align="center">
-  <!-- Cursor AI -->
-  <a href="https://www.cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1a1a1a" alt="Cursor AI" />
-  </a>
-  &nbsp;
-  <!-- Gemini CLI -->
-  <a href="https://ai.google.dev/gemini-cli" target="_blank">
-    <img src="https://img.shields.io/badge/✨_Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1967D2" alt="Gemini CLI" />
+  <!-- Claude AI -->
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://img.shields.io/badge/🎨_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" />
   </a>
   &nbsp;
   <!-- Google Antigravity -->
-  <a href="https://elgoog.im/google-gravity/" target="_blank">
-    <img src="https://img.shields.io/badge/🌀_Google_Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white&labelColor=C5221F" alt="Google Antigravity" />
+  <a href="https://antigravity.google" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Antigravity" />
+  </a>
+  &nbsp;
+  <!-- Gemini CLI -->
+  <a href="https://ai.google.dev/gemini-api/docs/cli" target="_blank">
+    <img src="https://img.shields.io/badge/✨_Gemini_CLI-FBBC04?style=for-the-badge&logo=google&logoColor=000000&labelColor=F9AB00" alt="Gemini CLI" />
   </a>
 </p>
 
 <p align="center">
+  <!-- ChatGPT Codex CLI -->
+  <a href="https://platform.openai.com/docs/guides/cli" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_ChatGPT_Codex_CLI-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT Codex CLI" />
+  </a>
+  &nbsp;
   <!-- Kiro AI -->
   <a href="https://kiro.ai" target="_blank">
-    <img src="https://img.shields.io/badge/🧠_Kiro_AI-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white&labelColor=6A1BB2" alt="Kiro AI" />
+    <img src="https://img.shields.io/badge/🧠_Kiro_AI-9B59B6?style=for-the-badge&logo=todoist&logoColor=FFFFFF&labelColor=7D3C98" alt="Kiro AI" />
   </a>
   &nbsp;
-  <!-- ChatGPT Codex CLI -->
-  <a href="https://platform.openai.com/docs/quickstart/cli" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_ChatGPT_Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=00845C" alt="ChatGPT Codex CLI" />
-  </a>
-  &nbsp;
-  <!-- Claude AI (Adding this since it's in your preferences!) -->
-  <a href="https://claude.ai" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Claude_AI-181A1D?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0F1117" alt="Claude AI" />
+  <!-- Cursor AI -->
+  <a href="https://cursor.sh" target="_blank">
+    <img src="https://img.shields.io/badge/🎯_Cursor_AI-1E1E1E?style=for-the-badge&logo=cursor&logoColor=00D4FF&labelColor=000000" alt="Cursor AI" />
   </a>
 </p>
 
@@ -222,9 +222,6 @@
     alt="Workflow Tags"
   />
 </p>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="1300">
-<br><br>
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="1300">
