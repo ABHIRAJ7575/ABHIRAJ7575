@@ -166,40 +166,40 @@
 </p>
 
 <p align="center">
-  <sub>🤖 The future is AI-assisted · Automate the boring · Create the impossible</sub>
+  <sub> The future is AI-assisted · Automate the boring · Create the impossible</sub>
 </p>
 
 <p align="center">
   <!-- Claude AI -->
   <a href="https://claude.ai" target="_blank">
-    <img src="https://img.shields.io/badge/🎨_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" />
+    <img src="https://img.shields.io/badge/_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" />
   </a>
   &nbsp;
   <!-- Google Antigravity -->
   <a href="https://antigravity.google" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Antigravity" />
+    <img src="https://img.shields.io/badge/_Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Antigravity" />
   </a>
   &nbsp;
   <!-- Gemini CLI -->
   <a href="https://ai.google.dev/gemini-api/docs/cli" target="_blank">
-    <img src="https://img.shields.io/badge/✨_Gemini_CLI-FBBC04?style=for-the-badge&logo=google&logoColor=000000&labelColor=F9AB00" alt="Gemini CLI" />
+    <img src="https://img.shields.io/badge/_Gemini_CLI-FBBC04?style=for-the-badge&logo=google&logoColor=000000&labelColor=F9AB00" alt="Gemini CLI" />
   </a>
 </p>
 
 <p align="center">
   <!-- ChatGPT Codex CLI -->
   <a href="https://platform.openai.com/docs/guides/cli" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_ChatGPT_Codex_CLI-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT Codex CLI" />
+    <img src="https://img.shields.io/badge/_ChatGPT_Codex_CLI-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT Codex CLI" />
   </a>
   &nbsp;
   <!-- Kiro AI -->
   <a href="https://kiro.ai" target="_blank">
-    <img src="https://img.shields.io/badge/🧠_Kiro_AI-9B59B6?style=for-the-badge&logo=todoist&logoColor=FFFFFF&labelColor=7D3C98" alt="Kiro AI" />
+    <img src="https://img.shields.io/badge/_Kiro_AI-9B59B6?style=for-the-badge&logo=todoist&logoColor=FFFFFF&labelColor=7D3C98" alt="Kiro AI" />
   </a>
   &nbsp;
   <!-- Cursor AI -->
   <a href="https://cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/🎯_Cursor_AI-1E1E1E?style=for-the-badge&logo=cursor&logoColor=00D4FF&labelColor=000000" alt="Cursor AI" />
+    <img src="https://img.shields.io/badge/_Cursor_AI-1E1E1E?style=for-the-badge&logo=cursor&logoColor=00D4FF&labelColor=000000" alt="Cursor AI" />
   </a>
 </p>
 
@@ -210,15 +210,15 @@
 
 <p align="center">
   <sub>
-     ⚙️ <b>Workflow Philosophy:</b> <br>
+      <b>Workflow Philosophy:</b> <br>
      Design in mind → Prompt in tools → Ship fast · Automate repetitive dev · Focus on logic & creativity <br>
-     🚀 <i>"Let AI handle the syntax, I'll handle the vision"</i>
+      <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=100&pause=700&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+SHIP"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=900&pause=1000&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+SHIP"
     alt="Workflow Tags"
   />
 </p>
