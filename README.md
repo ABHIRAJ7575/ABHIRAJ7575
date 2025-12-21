@@ -159,43 +159,72 @@
 ###  AI Tools & Workflow
 
 <p align="center">
-  <sub> Building with AI-first tools – coding by vibes, shipping by agents.</sub>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=100&pause=800&color=00F9FF&center=true&vCenter=true&width=950&lines=✦+Building+with+AI-first+tools+✦;✧+Coding+by+vibes+·+Shipping+by+agents+✧;✦+AI-Powered+Development+Pipeline+✦;✧+P0WERED+BY+▲I+·+C0DED+BY+HUM▲NS+✧"
+    alt="AI Tools Glitch Text"
+  />
 </p>
 
 <p align="center">
+  <sub>🤖 The future is AI-assisted · Automate the boring · Create the impossible</sub>
+</p>
 
+<p align="center">
   <!-- Cursor AI -->
   <a href="https://www.cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+    <img src="https://img.shields.io/badge/🎯_Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white&labelColor=1a1a1a" alt="Cursor AI" />
   </a>
-
+  &nbsp;
   <!-- Gemini CLI -->
   <a href="https://ai.google.dev/gemini-cli" target="_blank">
-    <img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI" />
+    <img src="https://img.shields.io/badge/✨_Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=1967D2" alt="Gemini CLI" />
   </a>
-
+  &nbsp;
   <!-- Google Antigravity -->
-  <a href="https://cloud.google.com/ai" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Antigravity-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity" />
+  <a href="https://elgoog.im/google-gravity/" target="_blank">
+    <img src="https://img.shields.io/badge/🌀_Google_Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white&labelColor=C5221F" alt="Google Antigravity" />
   </a>
+</p>
 
-  <!-- Kiro -->
+<p align="center">
+  <!-- Kiro AI -->
   <a href="https://kiro.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Kiro_AI-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" alt="Kiro AI" />
+    <img src="https://img.shields.io/badge/🧠_Kiro_AI-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white&labelColor=6A1BB2" alt="Kiro AI" />
   </a>
-
+  &nbsp;
   <!-- ChatGPT Codex CLI -->
   <a href="https://platform.openai.com/docs/quickstart/cli" target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT_Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Codex CLI" />
+    <img src="https://img.shields.io/badge/⚡_ChatGPT_Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white&labelColor=00845C" alt="ChatGPT Codex CLI" />
   </a>
+  &nbsp;
+  <!-- Claude AI (Adding this since it's in your preferences!) -->
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://img.shields.io/badge/🎨_Claude_AI-181A1D?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0F1117" alt="Claude AI" />
+  </a>
+</p>
 
+<!-- PIXEL DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=50&pause=999999&color=FF61E8&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider" />
 </p>
 
 <p align="center">
   <sub>
-     <b>Workflow:</b> design in mind → prompt in tools → ship fast · automate repetitive dev · keep focus on logic & creativity.
+     ⚙️ <b>Workflow Philosophy:</b> <br>
+     Design in mind → Prompt in tools → Ship fast · Automate repetitive dev · Focus on logic & creativity <br>
+     🚀 <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=100&pause=700&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+SHIP"
+    alt="Workflow Tags"
+  />
+</p>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="1300">
+<br><br>
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="1300">
