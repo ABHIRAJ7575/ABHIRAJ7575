@@ -159,26 +159,14 @@
 ###  AI Tools & Workflow
 
 <p align="center">
-  <sub>
-    <i>Building with AI-first tools — thinking in prompts, executing with agents.</i>
-  </sub>
+  <sub> Building with AI-first tools – coding by vibes, shipping by agents.</sub>
 </p>
 
 <p align="center">
 
   <!-- Cursor AI -->
   <a href="https://www.cursor.sh" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor_AI-111111?style=for-the-badge&logo=visualstudiocode&logoColor=00F9FF" alt="Cursor AI" />
-  </a>
-
-  <!-- ChatGPT / OpenAI -->
-  <a href="https://platform.openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/ChatGPT-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  </a>
-
-  <!-- ChatGPT Codex CLI -->
-  <a href="https://platform.openai.com/docs/quickstart/cli" target="_blank">
-    <img src="https://img.shields.io/badge/Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Codex CLI" />
+    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
   </a>
 
   <!-- Gemini CLI -->
@@ -191,16 +179,21 @@
     <img src="https://img.shields.io/badge/Google_Antigravity-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Antigravity" />
   </a>
 
-  <!-- Kiro AI -->
+  <!-- Kiro -->
   <a href="https://kiro.ai" target="_blank">
-    <img src="https://img.shields.io/badge/Kiro_AI-1A1A2E?style=for-the-badge&logo=artstation&logoColor=FF61E8" alt="Kiro AI" />
+    <img src="https://img.shields.io/badge/Kiro_AI-8A2BE2?style=for-the-badge&logo=todoist&logoColor=white" alt="Kiro AI" />
+  </a>
+
+  <!-- ChatGPT Codex CLI -->
+  <a href="https://platform.openai.com/docs/quickstart/cli" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT_Codex_CLI-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Codex CLI" />
   </a>
 
 </p>
 
 <p align="center">
   <sub>
-    <b>Workflow:</b> idea → structured prompt → AI agent execution → iterate → ship faster than tutorials.
+     <b>Workflow:</b> design in mind → prompt in tools → ship fast · automate repetitive dev · keep focus on logic & creativity.
   </sub>
 </p>
 
