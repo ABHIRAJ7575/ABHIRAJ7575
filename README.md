@@ -160,7 +160,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2000&pause=2000&color=00F9FF&center=true&vCenter=true&width=950&lines=✦+Building+with+AI-first+tools+✦;✧+Coding+by+vibes+·+Shipping+by+agents+✧;✦+AI-Powered+Development+Pipeline+✦;✧+P0WERED+BY+▲I+·+C0DED+BY+HUM▲NS+✧"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=950&lines=✦+Building+with+AI-first+tools+✦;✧+Coding+by+vibes+·+Shipping+by+agents+✧;✦+AI-Powered+Development+Pipeline+✦;✧+P0WERED+BY+▲I+·+C0DED+BY+HUM▲NS+✧"
     alt="AI Tools Glitch Text"
   />
 </p>
@@ -211,18 +211,18 @@
 <p align="center">
   <sub>
       <b>Workflow Philosophy:</b> <br>
-     Design in mind → Prompt in tools → Ship fast · Automate repetitive dev · Focus on logic & creativity <br>
+     Design in mind → Prompt in tools → Host fast · Automate repetitive dev · Focus on logic & creativity <br>
       <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2000&pause=2000&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
     alt="Workflow Tags"
   />
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1300">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1500">
 <br><br>
