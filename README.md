@@ -210,14 +210,15 @@
 
 <p align="center">
 <sub>
-      <b>Workflow Philosophy:</b>
+      <b>Workflow Philosophy:</b> <br>
+  Debugging the Impossible </br>
       <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p> 
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=1900&pause=2500&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
     alt="Workflow Tags"
   />
 </p>
