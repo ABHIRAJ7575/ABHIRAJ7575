@@ -160,7 +160,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=1500&pause=2000&color=00F9FF&center=true&vCenter=true&width=950&lines=✦+Building+with+AI-first+tools+✦;✧+Coding+by+vibes+·+Shipping+by+agents+✧;✦+AI-Powered+Development+Pipeline+✦;✧+P0WERED+BY+▲I+·+C0DED+BY+HUM▲NS+✧"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2000&pause=2000&color=00F9FF&center=true&vCenter=true&width=950&lines=✦+Building+with+AI-first+tools+✦;✧+Coding+by+vibes+·+Shipping+by+agents+✧;✦+AI-Powered+Development+Pipeline+✦;✧+P0WERED+BY+▲I+·+C0DED+BY+HUM▲NS+✧"
     alt="AI Tools Glitch Text"
   />
 </p>
@@ -218,7 +218,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=1500&pause=2000&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+SHIP"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2000&pause=2000&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
     alt="Workflow Tags"
   />
 </p>
