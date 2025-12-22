@@ -38,9 +38,9 @@
 <!-- ORIGINAL CODING GIF ON THE RIGHT (KEPT) -->
 <img align="right"  alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🔭 I’m currently working on **Prompt Engineering & Automation Pipelines**
+- 🔭 I'm currently working on **Prompt Engineering & Automation Pipelines**
 
-- 🌱 I’m currently learning **AI Development Tools**
+- 🌱 I'm currently learning **AI Development Tools**
 
 <!--- 💬 Ask me about **Development** -->
 
@@ -218,7 +218,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=1900&pause=2500&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=11&duration=2000&pause=2500&color=00F9FF&center=true&vCenter=true&width=850&lines=▲I+C0-PIL0T+·+HUM▲N+DIRΞCT0R;AI+AS+TOOL+·+CREATIVITY+AS+FUEL;PROMPT+→+BUILD+→+ITERATE+→+HOST"
     alt="Workflow Tags"
   />
 </p>
