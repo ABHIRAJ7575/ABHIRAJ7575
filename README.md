@@ -209,11 +209,11 @@
 </p>
 
 <p align="center">
-## <sub>
+<sub>
     <b>Workflow Philosophy:</b>
   <br>  </br>
     <i>"Let AI handle the syntax, I'll handle the vision"</i>
-  </sub> ##
+  </sub>
 </p> 
 
 <p align="center">
