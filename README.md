@@ -210,8 +210,8 @@
 
 <p align="center">
   <sub>
-      <b>Workflow Philosophy:</b> 
-      <i>"Let AI handle the syntax, I'll handle the vision"</i>
+    ###  <b>Workflow Philosophy:</b>
+      <i>"Let AI handle the syntax, I'll handle the vision"</i> ###
   </sub>
 </p>
 
