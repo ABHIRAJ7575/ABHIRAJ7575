@@ -1,12 +1,12 @@
 <!-- TOP MAIN HEADER GIF -->
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<!-- PIXEL BOY CODING HEADER  -->
+<!-- PIXEL BOY CODING HEADER (THE IMAGE YOU PROVIDED) -->
 <p align="center">
   <img src="/mnt/data/ChatGPT Image Nov 25, 2025, 10_27_25 PM.png" alt="" width="100%" />
 </p>
 
-<!-- "Hi 👋, I'm Abhiraj Dixit" -->
+<!-- "Hi 👋, I'm Abhiraj Dixit" IN PIXEL FONT WITH SLOW ANIMATION -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=1000&pause=3000&color=FF61E8&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+ABHIRAJ+DIXIT"
@@ -22,7 +22,6 @@
   />
 </p>
 
-
 <!-- GLITCH PIXEL TEXT: "Code. Create. Conquer." (slow dramatic glitch) -->
 <p align="center">
   <img
@@ -31,10 +30,6 @@
   />
 </p>
 
-
-
-
-
 <!-- ORIGINAL CODING GIF ON THE RIGHT (KEPT) -->
 <img align="right"  alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
@@ -42,11 +37,17 @@
 
 - 🌱 I'm currently learning **AI Development Tools**
 
+- 🤖 Building with **Claude AI, Cursor & AI-First Workflow**
+
+- 💡 Experimenting with **LLM-powered Code Generation**
+
 <!--- 💬 Ask me about **Development** -->
 
 - 📫 How to reach me **abhirajdixit25@gmail.com**
 
 - ⚡ Fun fact **I Learn from Projects than tutorials**
+
+- 🎯 2026 - 27 Goal: **Ship 10+ AI-powered projects**
 
 ---
 
@@ -156,6 +157,11 @@
   </a>
 </p>
 
+<!-- GLITCH SECTION DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=50&pause=999999&color=FF61E8&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider" />
+</p>
+
 ###  AI Tools & Workflow
 
 <p align="center">
@@ -170,37 +176,21 @@
 </p>
 
 <p align="center">
-  <!-- Claude AI -->
-  <a href="https://claude.ai" target=" blank">
-    <img src="https://img.shields.io/badge/_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" />
-  </a>
-  &nbsp;
-  <!-- Google Antigravity -->
-  <a href="https://antigravity.google" target=" blank">
-    <img src="https://img.shields.io/badge/_Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Antigravity" />
-  </a>
-  &nbsp;
-  <!-- Gemini CLI -->
-  <a href="https://ai.google.dev/gemini-api/docs/cli" target=" blank">
-    <img src="https://img.shields.io/badge/_Gemini_CLI-FBBC04?style=for-the-badge&logo=google&logoColor=000000&labelColor=F9AB00" alt="Gemini CLI" />
-  </a>
+  <a href="https://claude.ai" target="_blank"><img src="https://img.shields.io/badge/_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" /></a>
+  <a href="https://cursor.sh" target="_blank"><img src="https://img.shields.io/badge/_Cursor_AI-1E1E1E?style=for-the-badge&logo=cursor&logoColor=00D4FF&labelColor=000000" alt="Cursor AI" /></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/_GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=181717" alt="GitHub Copilot" /></a>
 </p>
 
 <p align="center">
-  <!-- ChatGPT Codex CLI -->
-  <a href="https://platform.openai.com/docs/guides/cli" target=" blank">
-    <img src="https://img.shields.io/badge/_ChatGPT_Codex_CLI-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT Codex CLI" />
-  </a>
-  &nbsp;
-  <!-- Kiro AI -->
-  <a href="https://kiro.ai" target=" blank">
-    <img src="https://img.shields.io/badge/_Kiro_AI-9B59B6?style=for-the-badge&logo=todoist&logoColor=FFFFFF&labelColor=7D3C98" alt="Kiro AI" />
-  </a>
-  &nbsp;
-  <!-- Cursor AI -->
-  <a href="https://cursor.sh" target=" blank">
-    <img src="https://img.shields.io/badge/_Cursor_AI-1E1E1E?style=for-the-badge&logo=cursor&logoColor=00D4FF&labelColor=000000" alt="Cursor AI" />
-  </a>
+  <a href="https://chat.openai.com" target="_blank"><img src="https://img.shields.io/badge/_ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT" /></a>
+  <a href="https://gemini.google.com" target="_blank"><img src="https://img.shields.io/badge/_Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Gemini" /></a>
+  <a href="https://v0.dev" target="_blank"><img src="https://img.shields.io/badge/_V0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000" alt="V0 by Vercel" /></a>
+</p>
+
+<p align="center">
+  <a href="https://bolt.new" target="_blank"><img src="https://img.shields.io/badge/_Bolt.new-7C3AED?style=for-the-badge&logo=lightning&logoColor=FFFFFF&labelColor=5B21B6" alt="Bolt.new" /></a>
+  <a href="https://codeium.com/windsurf" target="_blank"><img src="https://img.shields.io/badge/_Windsurf_IDE-09B6A2?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF&labelColor=078376" alt="Windsurf IDE" /></a>
+  <a href="https://replit.com" target="_blank"><img src="https://img.shields.io/badge/_Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=FFFFFF&labelColor=D94F00" alt="Replit AI" /></a>
 </p>
 
 <!-- PIXEL DIVIDER -->
@@ -208,13 +198,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=50&pause=999999&color=FF61E8&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider" />
 </p>
 
-<p align="center">
-<sub>
-    <b>Workflow Philosophy:</b>
-  <br>  </br>
-    <i>"Let AI handle the syntax, I'll handle the vision"</i>
-  </sub>
-</p> 
+<h3 align="center" style="font-size: 22px;">Workflow Philosophy:</h3>
+
+<p align="center" style="font-size: 18px;">
+  <strong><em>"Let AI handle the syntax, I'll handle the vision"</em></strong>
+</p>
 
 <p align="center">
   <img
@@ -223,6 +211,28 @@
   />
 </p>
 
+<!-- GLITCH SECTION DIVIDER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=50&pause=999999&color=FF61E8&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider" />
+</p>
+
+##  Current Focus
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&duration=2000&pause=2000&color=FF005C&center=true&vCenter=true&width=850&lines=+Building+AI-powered+SaaS+products;+Mastering+prompt+engineering;+Shipping+fast+with+AI+tools;+Learning+by+building+real+projects"
+    alt="Current Focus"
+  />
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1500">
+
+<!-- FINAL GLITCH MESSAGE -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=100&pause=1000&color=FF61E8&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+✦;Th@nks+f0r+v!s!t!ng!+✧;✦+▲I-P0WER£D+·+HUM▲N-M▲DE+✦;Th▲nks+f()r+v1s1t!ng!+✧"
+    alt="Thanks for visiting"
+  />
+</p>
+
 <br><br>
