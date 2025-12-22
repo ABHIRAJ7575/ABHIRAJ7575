@@ -210,8 +210,7 @@
 
 <p align="center">
   <sub>
-      <b>Workflow Philosophy:</b> <br>
-     Design in mind → Prompt in tools → Host fast · Automate repetitive dev · Focus on logic & creativity <br>
+      <b>Workflow Philosophy:</b> 
       <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p>
