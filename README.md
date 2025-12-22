@@ -208,12 +208,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=50&pause=999999&color=FF61E8&center=true&vCenter=true&width=900&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" alt="divider" />
 </p>
 
-<p align="center">
-###  <sub>
+### <p align="center">
+<sub>
       <b>Workflow Philosophy:</b>
       <i>"Let AI handle the syntax, I'll handle the vision"</i>
-  </sub> ###
-</p>
+  </sub>
+</p> ###
 
 <p align="center">
   <img
