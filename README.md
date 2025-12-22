@@ -171,29 +171,29 @@
 
 <p align="center">
   <!-- Claude AI -->
-  <a href="https://claude.ai" target="blank">
+  <a href="https://claude.ai" target=" blank">
     <img src="https://img.shields.io/badge/_Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF&labelColor=8B5A3C" alt="Claude AI" />
   </a>
   &nbsp;
   <!-- Google Antigravity -->
-  <a href="https://antigravity.google" target="blank">
+  <a href="https://antigravity.google" target=" blank">
     <img src="https://img.shields.io/badge/_Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=FFFFFF&labelColor=1967D2" alt="Google Antigravity" />
   </a>
   &nbsp;
   <!-- Gemini CLI -->
-  <a href="https://ai.google.dev/gemini-api/docs/cli" target="blank">
+  <a href="https://ai.google.dev/gemini-api/docs/cli" target=" blank">
     <img src="https://img.shields.io/badge/_Gemini_CLI-FBBC04?style=for-the-badge&logo=google&logoColor=000000&labelColor=F9AB00" alt="Gemini CLI" />
   </a>
 </p>
 
 <p align="center">
   <!-- ChatGPT Codex CLI -->
-  <a href="https://platform.openai.com/docs/guides/cli" target="blank">
+  <a href="https://platform.openai.com/docs/guides/cli" target=" blank">
     <img src="https://img.shields.io/badge/_ChatGPT_Codex_CLI-10A37F?style=for-the-badge&logo=openai&logoColor=FFFFFF&labelColor=0E8F6F" alt="ChatGPT Codex CLI" />
   </a>
   &nbsp;
   <!-- Kiro AI -->
-  <a href="https://kiro.ai" target="blank">
+  <a href="https://kiro.ai" target=" blank">
     <img src="https://img.shields.io/badge/_Kiro_AI-9B59B6?style=for-the-badge&logo=todoist&logoColor=FFFFFF&labelColor=7D3C98" alt="Kiro AI" />
   </a>
   &nbsp;
@@ -210,8 +210,7 @@
 
 <p align="center">
 <sub>
-      <b>Workflow Philosophy:</b> <br>
-  Debugging the Impossible </br>
+      <b>Workflow Philosophy:</b> 
       <i>"Let AI handle the syntax, I'll handle the vision"</i>
   </sub>
 </p> 
