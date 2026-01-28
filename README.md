@@ -230,7 +230,7 @@
 <!-- FINAL GLITCH MESSAGE -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=100&pause=1000&color=FF61E8&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+✦;Th@nks+f0r+v!s!t!ng!+✧;✦+✦;Th▲nks+f()r+v1s1t!ng!+✧"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=100&pause=1000&color=FF61E8&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+✦;Th@nks+f0r+v!s!t!ng!+✧;+;Th▲nks+f()r+v1s1t!ng!+✧"
     alt="Thanks for visiting"
   />
 </p>
